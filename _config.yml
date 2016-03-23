@@ -1,0 +1,28 @@
+name: Missing In Action Films
+favicon: null
+layout_spectrum: 0.2932382400613278
+typography_spectrum: 0.02779644844122231
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.06685379426926374
+  lightness: 0.29070746270008385
+  saturation: 0.2526771198026836
+  rhythmicContrast: 0.7252706855069846
+purpose: []
