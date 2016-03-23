@@ -2,17 +2,16 @@
     <channel>
         <title><![CDATA[Missing In Action Films]]></title>
         <description><![CDATA[Missing In Action Films]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/missing-in-action-films/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 14:17:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 15:01:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/missing-in-action-films/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>MISSING IN ACTION FILMS is an Oscar © winning, double BAFTA nominated independent film production company and marketing consultancy founded by Mia Bays. Celebrating 25 years in the film business in 2016, Mia has worked on over 50 features and produced 11 features and 4 short films. Titles such as the Oscar winner TSOTSI, SHIFTY, ILL MANORS, 24 HOUR PARTY PEOPLE, RICHARD III and LILTING starring Ben Whishaw. We produced the Oscar winner SIX SHOOTER and BAFTA nominated SCOTT WALKER - 30 CENTURY MAN.  Our latest films are THE MUSE by the world renowned fashion photographer Tim Walker, also starring Ben Whishaw and Kirsten McMenamy and BACKSTREET BOYS - SHOW EM WHAT YOU'RE MADE OF which played on over 1500 screens worldwide.
-</p>]]></description>
-            <link>undefinedf79b18a3-c3bb-4bea-888e-1b29d6eb07ac/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b9915b8-3607-4a80-9aaf-7be372fd0dc3.jpg">]]></description>
+            <link>https://thegrid.ai/missing-in-action-films/f79b18a3-c3bb-4bea-888e-1b29d6eb07ac/index.html</link>
             <guid isPermaLink="false">f79b18a3-c3bb-4bea-888e-1b29d6eb07ac</guid>
-            <pubDate>Wed, 23 Mar 2016 14:17:22 GMT</pubDate>
+            <pubDate>Wed, 23 Mar 2016 15:01:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
